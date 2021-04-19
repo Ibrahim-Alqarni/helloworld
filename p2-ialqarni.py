@@ -2,9 +2,7 @@
 """
     P2: Convert numeric scores to grades
     Author: Ibrahim Alqarni
-    Date: 02/11/2020 
     Python version 3.8.1
-    version 2 
 """
 
 input_score= input("Please enter quiz score: ")
@@ -17,9 +15,6 @@ except ValueError:
     print (f"This is not a number ({input_score})")
 #    raise SystemExit 
 else: 
-
-
-
     """ 
         The rules of the letters with the grades as follows: 
     """
