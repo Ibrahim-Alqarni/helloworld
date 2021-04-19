@@ -1,7 +1,5 @@
 """
 P1: Setting up your Python Environment
-Author: Ibrahim Alqarni
-Date: 02/03/2020 
 Python version 3.8.1
 """
 
