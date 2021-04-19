@@ -1,5 +1,6 @@
 """
 P1: Setting up your Python Environment
+Author: Ibrahim Alqarni
 Python version 3.8.1
 """
 
