@@ -1,2 +1,2 @@
 # helloworld
-My hello world repository
+My hello world repository for practicing Python
