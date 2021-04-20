@@ -1,7 +1,6 @@
 """ P3: User defined functions --> Finding the max value among the three values 
     Author: Ibrahim Alqarni 
     Python version 3.8.1
-    version 2
 """
 
 def maxOfThree(first, second, third):     
