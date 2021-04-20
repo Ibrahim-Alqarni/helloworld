@@ -35,19 +35,3 @@ def main() -> None:
 
 if __name__ == "__main__":                
     main()
-"""    
-while True:
-
-    inp: str = input(prompt)
-
-    try:
-        num = float(inp)
-        if num < 1 or num > 20:
-            raise Exception
-        return num
-
-    except ValueError:
-        print(f"Error: '{inp}' is not a number. Please try again...")
-    except:
-        print('The entered number is not in range [1-20]')
-"""
