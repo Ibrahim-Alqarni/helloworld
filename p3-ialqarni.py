@@ -1,6 +1,5 @@
 """ P3: User defined functions --> Finding the max value among the three values 
-    Author: Ibrahim Alqarni
-    Date: 02/14/2020 
+    Author: Ibrahim Alqarni 
     Python version 3.8.1
     version 2
 """
