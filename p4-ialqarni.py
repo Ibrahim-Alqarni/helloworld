@@ -2,7 +2,6 @@
 P4: Guess a Number using loops and a function
 Author: Ibrahim Alqarni
 Python version 3.8.1
-version: 1.0
 """
 
 from random import randint
