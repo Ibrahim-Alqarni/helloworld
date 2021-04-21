@@ -1,7 +1,6 @@
 """
 P4: Guess a Number using loops and a function
 Author: Ibrahim Alqarni
-Date: 02/22/2020 
 Python version 3.8.1
 version: 1.0
 """
