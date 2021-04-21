@@ -2,7 +2,6 @@
 P5: Convert singular words into plural
 Author: Ibrahim Alqarni
 Python version 3.8.1
-version: 1.0
 """
 
 def plural(some_sentence) -> list:
