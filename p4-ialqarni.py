@@ -21,7 +21,19 @@ def guess_game(num_guess:int, rand_guess:int ,name: str,count:int):
         print(f"Good job, {name}! You guessed my number in {count} guesses")
         return True
 
-
+def get_number(prompt: str) -> int:
+    """ read and return a number from the user.                                        
+        Loop until the user provides a valid number.
+    """                                                                                  
+    """    while True:
+        inp: str = input(prompt)
+        try:
+            int_imp = int(inp)
+            if int_imp >= 1 and int_imp <= 20:
+                return int_imp
+            print("Error: input must be an integer between 1 and 20")
+        except ValueError:
+            print(f"Error: '{inp}' is not a number. Please try again...")"""
 
 
     while True:
