@@ -1,7 +1,6 @@
 """
 P5: Convert singular words into plural
 Author: Ibrahim Alqarni
-Date: 03/02/2020 
 Python version 3.8.1
 version: 1.0
 """
