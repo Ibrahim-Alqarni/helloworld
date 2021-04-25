@@ -1,9 +1,3 @@
-"""
-P6: Slicing & Dicing files
-Author: Ibrahim Alqarni
-Python version 3.8.1
-"""
-
 import os
 
 def reading_file(file):
@@ -28,12 +22,15 @@ def reading_file(file):
                     line.strip("\n")
                     if not line.startswith("X-DSPAM-Confidence:"):
                         continue
+                        
                     else:
                         counter+=1
                         num = float(line[21:])
                         total = num + total
+                        
                 avrg = str(round(total/counter,4))
                 print("Average spam confidence: ", avrg)
+                
             except ValueError:
                 print("The file has invalid content")
                 
