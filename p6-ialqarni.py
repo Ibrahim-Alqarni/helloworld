@@ -2,7 +2,6 @@
 P6: Slicing & Dicing files
 Author: Ibrahim Alqarni
 Python version 3.8.1
-version: 1.0
 """
 
 import os
