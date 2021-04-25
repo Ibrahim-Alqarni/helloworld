@@ -1,7 +1,6 @@
 """
 P6: Slicing & Dicing files
 Author: Ibrahim Alqarni
-Date: 03/09/2020 
 Python version 3.8.1
 version: 1.0
 """
