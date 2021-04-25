@@ -1,3 +1,10 @@
+"""
+P6: Slicing & Dicing files
+Author: Ibrahim Alqarni
+Python version 3.8.1
+"""
+""" NEED some ENHANCMENT BUT IT IS WORKING 4/25/21 """
+
 import os
 
 def reading_file(file):
