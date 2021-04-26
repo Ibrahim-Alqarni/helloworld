@@ -1,7 +1,6 @@
 """
 P7: Finding unique strings
 Author: Ibrahim Alqarni
-Date: 03/17/2020 
 Python version 3.8.1
 version: 1.0
 """
