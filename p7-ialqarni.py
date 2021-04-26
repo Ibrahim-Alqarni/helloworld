@@ -3,20 +3,16 @@ P7: Finding unique strings
 Author: Ibrahim Alqarni
 Python version 3.8.1
 """
-
 import os
 
 def unique_string(file):
     emails = set()
     try:
         read_file= open(file,"r")
-
     except FileNotFoundError:
             print ("File name not found", file)
-
     except NameError:
             print("File name cannont oppend",file)
-    
     else:
             filesize = os.path.getsize(file)
             if filesize == 0:
