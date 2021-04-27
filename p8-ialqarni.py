@@ -11,13 +11,11 @@ file_name = input("Enter the file name: ")
 
 def count_item(file):
     'print sender email and the number of times he sent an email'
-
     emails = []
     d = dict()
 
     try:
         fl = open(file, 'r')
-
     except FileNotFoundError:
         print ("file name not found")
     except OSError:
