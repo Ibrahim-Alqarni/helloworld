@@ -2,9 +2,7 @@
 P8: Counting unique items: The script print the sender name 
     and count the number of times the sender sent an email
 Author: Ibrahim Alqarni
-Date: 03/30/2020 
 Python version 3.8.1
-version: 1.0
 """
 
 import os
