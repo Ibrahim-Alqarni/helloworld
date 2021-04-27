@@ -4,7 +4,6 @@ P8: Counting unique items: The script print the sender name
 Author: Ibrahim Alqarni
 Python version 3.8.1
 """
-
 import os
 
 file_name = input("Enter the file name: ")
