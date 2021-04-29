@@ -4,7 +4,6 @@ Author: Ibrahim Alqarni
 Python version 3.8.1
 version: 1.0
 """
-
 import string
 import operator
 import os
