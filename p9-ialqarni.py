@@ -1,7 +1,6 @@
 """
 P9: Classic books 
 Author: Ibrahim Alqarni
-Date: 04/05/2020 
 Python version 3.8.1
 version: 1.0
 """
