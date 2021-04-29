@@ -2,9 +2,7 @@
 P10: Writing Regex's
 Author: Ibrahim Alqarni
 Python version 3.8.1
-version: 2.0
 """
-
 import re
 import os
 
