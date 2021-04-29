@@ -25,13 +25,10 @@ def classic_books(file):
 
     try:
         fl= open(file, encoding="utf-8")
-
     except UnicodeEncodeError:
         print("the file has string wich is not ascii") # string is not ascii
-
     except FileNotFoundError:
         print("file not found")
-        
     else:
         filesize = os.path.getsize(file)
         if filesize == 0:
