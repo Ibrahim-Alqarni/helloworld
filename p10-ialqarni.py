@@ -1,7 +1,6 @@
 """
 P10: Writing Regex's
 Author: Ibrahim Alqarni
-Date: 04/13/2020 
 Python version 3.8.1
 version: 2.0
 """
